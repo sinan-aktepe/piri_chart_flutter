@@ -1,5 +1,0 @@
-package com.syncfusion.chat_example
-
-import io.flutter.embedding.android.FlutterActivity
-
-class MainActivity: FlutterActivity()
